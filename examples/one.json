@@ -1,0 +1,5 @@
+{
+  "name": "one",
+  "description": "first example",
+  "entry": "./index.js"
+}
